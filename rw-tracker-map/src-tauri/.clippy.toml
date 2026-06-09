@@ -1,0 +1,8 @@
+allow-renamed-params-for = ["..", "common::storage::Repository"]
+allowed-idents-below-min-chars = ["..", "b", "e", "f", "g", "r"]
+check-private-items = true
+cognitive-complexity-threshold = 80
+missing-docs-allow-unused = true
+module-items-ordered-within-groupings = ["modules", "use"]
+source-item-ordering = ["module", "trait"]
+struct-field-name-threshold = 1
